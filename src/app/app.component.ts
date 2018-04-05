@@ -8,4 +8,7 @@ import { Component } from '@angular/core';
 export class AppComponent {
 	title = 'Day 1';
 	author = 'Richard Vanegas';
+	count = 0;
+	imgSource = './../favicon.ico';
+	enabled = true;
 }
